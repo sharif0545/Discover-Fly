@@ -139,6 +139,9 @@ nav ul li a:hover, a.active{
     display: none;
    
 }
+#booking-success img {
+	width: 60%;
+}
 #unsuccess-booking{
     background-color:lightgray;
     width: 80%;
